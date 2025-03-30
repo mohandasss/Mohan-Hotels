@@ -28,34 +28,7 @@ MOHAN HOTELS is a full-stack hotel booking and management system offering seamle
 - **Additional Tools**:  
   - **EmailJS**: Automated email responses  
 
----
 
-## 📜 **How to Use**
-
-Clone the repository:  
-```sh
-git clone https://github.com/mohandasss/mohan-hotels.git
-```
-
-Navigate to the project folder:  
-```sh
-cd mohan-hotels
-```
-
-Backend Setup:  
-```sh
-cd backend
-./mvnw spring-boot:run
-```
-
-Frontend Setup:  
-```sh
-cd frontend
-npm install
-npm start
-```
-
-Open the application:  
 - Navigate to `http://localhost:3000` in your browser.
 
 ---
